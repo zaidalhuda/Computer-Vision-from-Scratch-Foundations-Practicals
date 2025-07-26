@@ -316,83 +316,6 @@ The course is designed as a **two-part journey** that builds from foundations to
    jupyter notebook
    ```
 
-## 📁 Repository Structure
-
-```
-computer-vision-from-scratch/
-├── 📂 module-01-ml-for-cv/
-│   ├── 📓 lecture-01-rule-vs-ml.ipynb
-│   ├── 📂 code/
-│   ├── 📂 readings/
-│   ├── 📂 slides/
-│   └── 📋 README.md
-├── 📂 module-02-basic-models/
-│   ├── 📓 lecture-02-linear-model.ipynb
-│   ├── 📓 lecture-03-neural-network.ipynb
-│   ├── 📓 lecture-04-overfitting.ipynb
-│   ├── 📂 code/
-│   ├── 📂 assignments/
-│   └── 📋 README.md
-├── 📂 module-03-cnns/
-│   ├── 📓 lecture-05-cnn-intro.ipynb
-│   ├── 📓 lecture-06-historical-cnns.ipynb
-│   ├── 📓 lecture-07-deep-networks.ipynb
-│   ├── 📓 lecture-08-transfer-learning.ipynb
-│   └── 📋 README.md
-├── 📂 module-04-vision-transformer/
-├── 📂 module-05-object-detection/
-├── 📂 module-06-image-segmentation/
-├── 📂 module-07-creating-datasets/
-├── 📂 module-08-data-preprocessing/
-├── 📂 module-09-training-pipeline/
-├── 📂 module-10-model-quality/
-├── 📂 module-11-model-deployment/
-├── 📂 module-12-advanced-topics/
-├── 📂 datasets/
-│   ├── 📂 sample-data/
-│   ├── 📂 rice-grains/
-│   └── 📂 external-links.md
-├── 📂 utils/
-│   ├── 🐍 data_utils.py
-│   ├── 🐍 model_utils.py
-│   └── 🐍 visualization.py
-├── 📂 docs/
-│   ├── 📄 setup-guide.md
-│   ├── 📄 troubleshooting.md
-│   └── 📄 faq.md
-├── 📄 requirements.txt
-├── 📄 environment.yml
-├── 📄 CONTRIBUTING.md
-├── 📄 LICENSE
-└── 📋 README.md
-```
-
-## 🔗 Quick Links
-
-### 📚 **Course Materials**
-- [📖 Complete Course Outline](./docs/course-outline.pdf)
-- [📊 All Slide Decks](./slides/)
-- [💾 Dataset Downloads](./datasets/external-links.md)
-- [🛠️ Setup Guide](./docs/setup-guide.md)
-
-### 🎯 **By Learning Path**
-- [🔰 **Beginner Path**](./learning-paths/beginner.md): Modules 1-3
-- [🚀 **Intermediate Path**](./learning-paths/intermediate.md): Modules 4-8  
-- [⚡ **Advanced Path**](./learning-paths/advanced.md): Modules 9-12
-- [🏭 **Production Path**](./learning-paths/production.md): Focus on deployment
-
-### 🎨 **By Application**
-- [🚗 **Object Detection**](./applications/object-detection.md): Modules 5, 10, 11
-- [🏥 **Medical Imaging**](./applications/medical-imaging.md): Modules 6, 8, 12
-- [📱 **Mobile/Edge**](./applications/mobile-edge.md): Modules 9, 11
-- [🎮 **Generative Models**](./applications/generative.md): Modules 12
-
-### 🔧 **Development Resources**
-- [⚙️ Environment Setup](./docs/setup-guide.md)
-- [❓ FAQ & Troubleshooting](./docs/faq.md)
-- [🐛 Common Issues](./docs/troubleshooting.md)
-- [📝 Contributing Guidelines](./CONTRIBUTING.md)
-
 ## 🎯 Learning Outcomes
 
 By completing this course, you will:
@@ -404,16 +327,6 @@ By completing this course, you will:
 - ✅ **Stay current** with latest architectures like Vision Transformers
 - ✅ **Apply CV** to diverse domains: detection, segmentation, generation
 
-## 🎯 Learning Outcomes
-
-By completing this course, you will:
-
-- ✅ **Master the fundamentals** of computer vision and deep learning
-- ✅ **Build production-ready** CV models from scratch
-- ✅ **Deploy models** to cloud, mobile, and edge devices
-- ✅ **Handle real-world challenges** like bias, data quality, and scaling
-- ✅ **Stay current** with latest architectures like Vision Transformers
-- ✅ **Apply CV** to diverse domains: detection, segmentation, generation
 
 ## 📈 Progress Tracking
 
@@ -429,43 +342,6 @@ Track your learning progress through the course:
 - [ ] **Module 10**: Model Quality & Evaluation
 - [ ] **Module 11**: Model Deployment
 - [ ] **Module 12**: Advanced Topics & Generative Models
-
-## 🌟 Community
-
-Join our growing community of computer vision practitioners:
-
-- 💬 **[GitHub Discussions](https://github.com/your-username/computer-vision-from-scratch/discussions)** - Ask questions, share projects
-- 🐛 **[Issues](https://github.com/your-username/computer-vision-from-scratch/issues)** - Report bugs or request features
-- 📧 **[Mailing List](mailto:cv-course@example.com)** - Get updates on new content
-- 🐦 **[Twitter](https://twitter.com/cv_course)** - Follow for tips and updates
-- 📺 **[YouTube Channel](https://youtube.com/cv-from-scratch)** - Video lectures and tutorials
-
-## 🗺️ Roadmap
-
-### 🎯 Coming Soon
-- [ ] **Interactive Demos** - Gradio/Streamlit apps for each module
-- [ ] **Video Lectures** - Complete video walkthrough series  
-- [ ] **Mobile App** - Practice CV concepts on-the-go
-- [ ] **Certification** - Complete the course and earn a certificate
-
-### 🔮 Future Enhancements
-- [ ] **Advanced Modules** - NeRFs, Diffusion Models, CLIP
-- [ ] **Industry Partnerships** - Real company case studies
-- [ ] **Multi-language Support** - Course materials in multiple languages
-- [ ] **Hardware Optimization** - CUDA, TensorRT, specialized accelerators
-
-## 🙏 Acknowledgments
-
-This course was inspired by:
-- **Real-world experience** from 10+ years in computer vision research
-- **Community feedback** from thousands of practitioners
-- **Open source contributions** from the CV community
-- **Academic research** from leading institutions
-
-Special thanks to contributors:
-- [Contributor 1](https://github.com/contributor1) - Dataset curation
-- [Contributor 2](https://github.com/contributor2) - Code optimization  
-- [Contributor 3](https://github.com/contributor3) - Documentation
 
 ## 📚 Citations & References
 
@@ -486,46 +362,9 @@ If you use this course in your research or work, please cite:
 - Krizhevsky, A., et al. "ImageNet classification with deep convolutional neural networks." Communications of the ACM 60.6 (2017): 84-90.
 - Dosovitskiy, A., et al. "An image is worth 16x16 words: Transformers for image recognition at scale." arXiv preprint arXiv:2010.11929 (2020).
 
-## 🤝 Contributing
 
-We welcome contributions from the community! Here's how you can help:
 
-### 🔧 **Code Contributions**
-- Fix bugs in notebooks or code examples
-- Add new practical exercises
-- Improve existing implementations
-- Optimize training scripts
 
-### 📚 **Content Contributions**  
-- Add reading materials and references
-- Create supplementary tutorials
-- Translate content to other languages
-- Record video explanations
-
-### 🎨 **Creative Contributions**
-- Design better visualizations
-- Create infographics and diagrams
-- Develop interactive demos
-- Build mobile applications
-
-Please see our [**Contributing Guidelines**](./CONTRIBUTING.md) for detailed instructions.
-
-## 📞 Support & Contact
-
-### 🆘 **Getting Help**
-- 📖 **Documentation**: Check the [FAQ](./docs/faq.md) and [Troubleshooting Guide](./docs/troubleshooting.md)
-- 💬 **Community**: Ask questions in [GitHub Discussions](https://github.com/your-username/computer-vision-from-scratch/discussions)
-- 🐛 **Bug Reports**: Open an [issue](https://github.com/your-username/computer-vision-from-scratch/issues)
-
-### 📧 **Direct Contact**
-- **Course Creator**: [your-email@domain.com](mailto:your-email@domain.com)
-- **General Inquiries**: [info@cv-course.com](mailto:info@cv-course.com)
-- **Partnership**: [partnerships@cv-course.com](mailto:partnerships@cv-course.com)
-
-### 🌐 **Social Media**
-- **LinkedIn**: [Course LinkedIn Page](https://linkedin.com/company/cv-course)
-- **Twitter**: [@cv_course](https://twitter.com/cv_course)
-- **YouTube**: [Computer Vision from Scratch](https://youtube.com/cv-from-scratch)
 
 ## 📄 License
 
@@ -553,8 +392,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE
 *Let's build the future of computer vision together.*
 
 ---
-
-![Course Banner](./assets/course-banner.png)
 
 **Made with ❤️ by the Computer Vision Community**
 
