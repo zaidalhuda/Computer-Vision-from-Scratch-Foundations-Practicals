@@ -1,5 +1,7 @@
 # 🔬 Computer Vision from Scratch: Foundations & Practicals
 
+**By Dr. Zaid Al-Huda**
+
 > *"The field of machine vision is swiftly evolving"* - From traditional rule-based approaches to cutting-edge deep learning architectures
 
 [![Course Status](https://img.shields.io/badge/Status-Active-brightgreen)]() [![License](https://img.shields.io/badge/License-MIT-blue)]() [![Python](https://img.shields.io/badge/Python-3.8+-orange)]() [![Framework](https://img.shields.io/badge/Framework-TensorFlow%20%7C%20PyTorch-red)]()
@@ -7,6 +9,8 @@
 ## 🎯 Course Overview
 
 This comprehensive computer vision course takes you from the fundamentals of image processing to advanced generative models and real-world deployment. Born from a decade of research experience, starting with traditional rice grain detection algorithms and evolving into modern deep learning approaches.
+
+**This course is based on the foundational concepts from ["Practical Machine Learning for Computer Vision"](https://www.amazon.com/Practical-Machine-Learning-Computer-Vision/dp/1098102363) book ([GitHub Repository](https://github.com/GoogleCloudPlatform/practical-ml-vision-book)), enhanced with hands-on implementations and modern deep learning techniques.**
 
 ### 🌟 What Makes This Course Special?
 
@@ -350,7 +354,7 @@ If you use this course in your research or work, please cite:
 ```bibtex
 @misc{computer_vision_from_scratch_2025,
   title={Computer Vision from Scratch: Foundations and Practicals},
-  author={Your Name},
+  author={Dr. Zaid Al-Huda},
   year={2025},
   publisher={GitHub},
   url={https://github.com/your-username/computer-vision-from-scratch}
@@ -358,6 +362,7 @@ If you use this course in your research or work, please cite:
 ```
 
 **Key References:**
+- ["Practical Machine Learning for Computer Vision"](https://www.amazon.com/Practical-Machine-Learning-Computer-Vision/dp/1098102363) - Foundational reference for this course ([GitHub](https://github.com/GoogleCloudPlatform/practical-ml-vision-book))
 - LeCun, Y., et al. "Deep learning." Nature 521.7553 (2015): 436-444.
 - Krizhevsky, A., et al. "ImageNet classification with deep convolutional neural networks." Communications of the ACM 60.6 (2017): 84-90.
 - Dosovitskiy, A., et al. "An image is worth 16x16 words: Transformers for image recognition at scale." arXiv preprint arXiv:2010.11929 (2020).
@@ -393,6 +398,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE
 
 ---
 
-**Made with ❤️ by the Computer Vision Community**
+**Made with ❤️ by Dr. Zaid Al-Huda**
 
 </div>
