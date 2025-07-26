@@ -10,7 +10,7 @@
 
 This comprehensive computer vision course takes you from the fundamentals of image processing to advanced generative models and real-world deployment. Born from a decade of research experience, starting with traditional rice grain detection algorithms and evolving into modern deep learning approaches.
 
-**This course is based on the foundational concepts from ["Practical Machine Learning for Computer Vision"](https://www.amazon.com/Practical-Machine-Learning-Computer-Vision/dp/1098102363) book ([GitHub Repository](https://github.com/GoogleCloudPlatform/practical-ml-vision-book)), enhanced with hands-on implementations and modern deep learning techniques.**
+**This course is based on the foundational concepts from ["Practical Machine Learning for Computer Vision"]([https://www.amazon.com/Practical-Machine-Learning-Computer-Vision/dp/1098102363](https://www.amazon.com/Practical-Machine-Learning-Computer-Vision/dp/1098102363)) book ([GitHub Repository](https://github.com/GoogleCloudPlatform/practical-ml-vision-book)), enhanced with hands-on implementations and modern deep learning techniques.**
 
 ### 🌟 What Makes This Course Special?
 
