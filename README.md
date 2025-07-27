@@ -4,7 +4,7 @@
 
 > *"The field of machine vision is swiftly evolving"* - From traditional rule-based approaches to cutting-edge deep learning architectures
 
-[![Course Status](https://img.shields.io/badge/Status-Active-brightgreen)]() [![License](https://img.shields.io/badge/License-MIT-blue)]() [![Python](https://img.shields.io/badge/Python-3.8+-orange)]() [![Framework](https://img.shields.io/badge/Framework-TensorFlow%20%7C%20PyTorch-red)]()
+[![Course Status](https://img.shields.io/badge/Status-Active-brightgreen)]() [![License](https://img.shields.io/badge/License-MIT-blue)]() [![Python](https://img.shields.io/badge/Python-3.8+-orange)]() [![Framework](https://img.shields.io/badge/Framework-PyTorch-red)]()
 
 ## 🎯 Course Overview
 
